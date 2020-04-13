@@ -1,0 +1,9 @@
+C:\Users\Dan\source\repos\Markov\Markov\bin\Release\Markov.exe.config
+C:\Users\Dan\source\repos\Markov\Markov\bin\Release\Markov.exe
+C:\Users\Dan\source\repos\Markov\Markov\bin\Release\Markov.pdb
+C:\Users\Dan\source\repos\Markov\Markov\obj\Release\Markov.Form1.resources
+C:\Users\Dan\source\repos\Markov\Markov\obj\Release\Markov.Properties.Resources.resources
+C:\Users\Dan\source\repos\Markov\Markov\obj\Release\Markov.csproj.GenerateResource.cache
+C:\Users\Dan\source\repos\Markov\Markov\obj\Release\Markov.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\Markov\Markov\obj\Release\Markov.exe
+C:\Users\Dan\source\repos\Markov\Markov\obj\Release\Markov.pdb

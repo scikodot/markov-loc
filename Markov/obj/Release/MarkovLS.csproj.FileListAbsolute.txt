@@ -1,0 +1,10 @@
+C:\Users\Dan\source\repos\Markov\Markov\bin\Release\MarkovLS.exe.config
+C:\Users\Dan\source\repos\Markov\Markov\bin\Release\MarkovLS.exe
+C:\Users\Dan\source\repos\Markov\Markov\bin\Release\MarkovLS.pdb
+C:\Users\Dan\source\repos\Markov\Markov\obj\Release\MarkovLS.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\Markov\Markov\obj\Release\MarkovLS.Form1.resources
+C:\Users\Dan\source\repos\Markov\Markov\obj\Release\MarkovLS.Properties.Resources.resources
+C:\Users\Dan\source\repos\Markov\Markov\obj\Release\MarkovLS.csproj.GenerateResource.cache
+C:\Users\Dan\source\repos\Markov\Markov\obj\Release\MarkovLS.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\Markov\Markov\obj\Release\MarkovLS.exe
+C:\Users\Dan\source\repos\Markov\Markov\obj\Release\MarkovLS.pdb
